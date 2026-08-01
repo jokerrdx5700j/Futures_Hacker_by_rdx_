@@ -118,7 +118,7 @@ Learn 20 modules of CEH v13:
 
 20.**Cryptography**
 
-Every single things will be found at **Cyber_mind_space** <- YT channel
+Every single things will be found at **"Cyber_mind_space"** <- YT channel
 
 Here is the Link -> *https://www.youtube.com/playlist?list=PLAb9nv6qtkAzg3NXdWn4W7mppaJnG1lqm* 
 
@@ -144,9 +144,9 @@ there are many books on how to start programming
 
 STEP 6 — AI 
 
-Learn *AI basics* , how it *made* and watch how to *manupulate* it and use it for *Hacking*
+Learn *"AI basics"* , how it *"made"* and watch how to *"manupulate"* it and use it for *"Hacking"*
 
-You can watch *z-security* - yt channel
+You can watch *"z-security"* - yt channel
 
 or , I will tell *Cyber_mind_space* -> to make a full tutorial on that
 
@@ -155,11 +155,11 @@ or , I will tell *Cyber_mind_space* -> to make a full tutorial on that
 RESOURCES (ethical)
 
 \- TryHackMe,
- Hack The Box (with permission), 
+ *Hack The Box (with permission), 
  OWASP projects, 
  SANS (defense courses),
  CIS Benchmarks, 
-  RFCs.
+  RFCs.*
 
 
 
