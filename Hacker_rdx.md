@@ -79,24 +79,43 @@ Definition: Introductory ethical hacking certification; broad conceptual coverag
 Learn 20 modules of CEH v13:
 
 1.**Introduction to Ethical Hacking**
+
 2.**Footprinting and Reconnaissance**
+
 3.**Scanning Networks**
+
 4.**Enumeration**
+
 5.**Vulnerability Analysis**
+
 6.**System Hacking**
+
 7.**Malware Threats**
+
 8.**Sniffing**
+
 9.**Social Engineering**
+
 10.**Denial-of-Service (DoS)**
+
 11.**Session Hijacking**
+
 12.**Evading IDS, Firewalls, and Honeypots**
+
 13.**Hacking Web Servers**
+
 14.**Hacking Web Applications**
+
 15.**SQL Injection**
+
 16.**Hacking Wireless Networks**
+
 17.**Hacking Mobile Platforms**
+
 18.**IoT Hacking**
+
 19.**Cloud Computing**
+
 20.**Cryptography**
 
 Every single things will be found at **Cyber_mind_space** <- YT channel
