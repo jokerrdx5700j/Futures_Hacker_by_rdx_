@@ -1,12 +1,3 @@
-
-┌─────────────────────────────────────────────────────────────┐
-│ SYSTEM STATUS : ONLINE                                      │
-│ ACCESS LEVEL  : RECRUIT                                     │
-│ MODE          : LEARNING                                    │
-│ TARGET        : CYBERSECURITY                               │
-│ CLEARANCE     : ETHICAL OPERATIONS ONLY                     │
-└─────────────────────────────────────────────────────────────┘
-
 [root@localhost ~]# initialize_training_*of Ethical Hacker*
 
 ██████████████████████████████████████████████████████████████
