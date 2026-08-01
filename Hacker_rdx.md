@@ -156,9 +156,13 @@ RESOURCES (ethical)
 
 \- TryHackMe,
  *Hack The Box (with permission), 
+ 
  OWASP projects, 
+ 
  SANS (defense courses),
+ 
  CIS Benchmarks, 
+ 
   RFCs.*
 
 
@@ -168,10 +172,15 @@ RESOURCES (ethical)
 STEP 7 - Certificates
 
 ComptiaA+
+
 CCNA
+
 CEH
+
 Sec101
+
 C|OSINT|P
+
 TryHackMe Cert
 
 Note: *We will be a great hacker in the history and herstory*
