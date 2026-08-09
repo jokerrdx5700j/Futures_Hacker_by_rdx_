@@ -9,10 +9,8 @@ Definition: Open Source OS family built for us(Hacker and some Extraordinary peo
 
 read "**Linux basics for hacker by occupytheweb**"
 
-And this vid -> *https://youtube.com/playlist?list=PLhfrWIlLOoKOs-fjCPHdzD2icF2vORfwK&si=vsf3e8wp4JYALPXH*
-
-See some Vid on it
-
+*https://youtube.com/playlist?list=PLhfrWIlLOoKOs-fjCPHdzD2icF2vORfwK&si=vsf3e8wp4JYALPXH*
+*https://www.youtube.com/watch?v=28dZrcEDFTY*
 
 ██████████████████████████████████████████████████████████████
 
@@ -110,58 +108,23 @@ Here is the Link ->
 
 Download it before the deleting of this playlist
 
-
 ██████████████████████████████████████████████████████████████
 
-[05] PROGRAMMING MODULES
-──────────────────────────────────────────────────────────────
-
-you can simply copy the topic and go to YT
-
-*https://github.com/jokerrdx5700j/Hackingbooks*
-
-there are many books on how to start programming
-
-*https://build-your-own-x.vercel.app/#build-your-own-operating-system*
-
-<- How to make OS and many other
-
-
-██████████████████████████████████████████████████████████████
-
-[06] AI
+[05] AI
 ──────────────────────────────────────────────────────────────
 
 Learn *"AI basics"* , how it *"made"* and watch how to
 *"manupulate"* it and use it for *"Hacking"*
 
 You can watch *"z-security"* - yt channel
-
-or , I will tell *Cyber_mind_space* ->
-to make a full tutorial on that
-
-
-██████████████████████████████████████████████████████████████
-
-[RESOURCES]
-──────────────────────────────────────────────────────────────
-
-- TryHackMe
-
-- Hack The Box (with permission)
-
-- OWASP projects
-
-- SANS (defense courses)
-
-- CIS Benchmarks
-
-- RFCs.
-
+https://youtu.be/bwzK1FuSp1Q?si=ikz36jO3YLZAN0zu
+https://youtu.be/zwV5p1L0COI?si=f1xS2QnLRadJ5KJK
+https://youtu.be/hlKVvCwDZf4?si=8YHwYLylvpJ1nkSC
+https://youtu.be/XvGeXQ7js_o?si=3rJUPJqoYzj-wV1y
 
 ██████████████████████████████████████████████████████████████
 
-[07] CERTIFICATES
+[06] CERTIFICATES
 ──────────────────────────────────────────────────────────────
 
 ComptiaA+
