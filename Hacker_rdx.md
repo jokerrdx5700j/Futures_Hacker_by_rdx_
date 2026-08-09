@@ -117,6 +117,7 @@ Learn *"AI basics"* , how it *"made"* and watch how to
 *"manupulate"* it and use it for *"Hacking"*
 
 You can watch *"z-security"* - yt channel
+
 [1] *https://youtu.be/bwzK1FuSp1Q?si=ikz36jO3YLZAN0zu*
 
 [2]*https://youtu.be/zwV5p1L0COI?si=f1xS2QnLRadJ5KJK*
