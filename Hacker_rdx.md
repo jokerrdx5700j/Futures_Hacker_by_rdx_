@@ -118,8 +118,11 @@ Learn *"AI basics"* , how it *"made"* and watch how to
 
 You can watch *"z-security"* - yt channel
 https://youtu.be/bwzK1FuSp1Q?si=ikz36jO3YLZAN0zu
+
 https://youtu.be/zwV5p1L0COI?si=f1xS2QnLRadJ5KJK
+
 https://youtu.be/hlKVvCwDZf4?si=8YHwYLylvpJ1nkSC
+
 https://youtu.be/XvGeXQ7js_o?si=3rJUPJqoYzj-wV1y
 
 ██████████████████████████████████████████████████████████████
