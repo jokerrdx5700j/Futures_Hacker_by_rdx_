@@ -9,6 +9,8 @@ Definition: Open Source OS family built for us(Hacker and some Extraordinary peo
 
 read "**Linux basics for hacker by occupytheweb**"
 
+[]Kali Linux - *https://www.offensive-security.com/kali-linux-vmware-virtualbox-image-download/*
+
 *https://youtube.com/playlist?list=PLhfrWIlLOoKOs-fjCPHdzD2icF2vORfwK&si=vsf3e8wp4JYALPXH*
 *https://www.youtube.com/watch?v=28dZrcEDFTY*
 
