@@ -44,10 +44,10 @@ Definition: Gathering and analyzing publicly available information.
 There are many types of OSINT techniques; Learn all of Them in deep
 
 go to
-**https://github.com/jokerrdx5700j/Osint/blob/main/README.md**
+*https://github.com/jokerrdx5700j/Osint_rdx/blob/main/Osin*
 <- Made by me
 
-yt video - *https://www.youtube.com/playlist?list=PLhfrWIlLOoKPT0y4R_mM4y-2QdfLpAWXl*
+youtube video - *https://www.youtube.com/playlist?list=PLhfrWIlLOoKPT0y4R_mM4y-2QdfLpAWXl*
 
 Learn **not all** of them ,learn essentials and situation one,
 but not at once , in 1-2 years , and do practice every single of them.
