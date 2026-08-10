@@ -47,6 +47,8 @@ go to
 **https://github.com/jokerrdx5700j/Osint/blob/main/README.md**
 <- Made by me
 
+yt video - *https://www.youtube.com/playlist?list=PLhfrWIlLOoKPT0y4R_mM4y-2QdfLpAWXl*
+
 Learn **not all** of them ,learn essentials and situation one,
 but not at once , in 1-2 years , and do practice every single of them.
 
